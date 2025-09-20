@@ -1,0 +1,13 @@
+env
+.env
+.ebextensions
+lambda/bankextract-package/__pycache__
+lambda/bankextract-package/.venv
+lambda/bankextract-package/.env
+lambda/bankextract-package/build
+lambda/chatbot-package/__pycache__
+lambda/chatbot-package/.venv
+lambda/chatbot-package/build
+lambda/visualize-package/__pycache__
+lambda/visualize-package/.venv
+lambda/visualize-package/build
